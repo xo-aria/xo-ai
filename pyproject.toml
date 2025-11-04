@@ -1,0 +1,38 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "xo-ai"
+version = "1.0.0"
+description = "XO — Minimal Conversational Intelligence Framework with Memory and Reinforcement"
+readme = "README.md"
+authors = [{ name = "XO Aria", email = "hf18950@gmail.com" }]
+license = { text = "MIT" }
+
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "Topic :: Communications :: Chat",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Operating System :: OS Independent"
+]
+
+dependencies = []
+
+requires-python = ">=3.8"
+
+[project.scripts]
+xo = "xo.cli:run_cli"
+
+[project.urls]
+Homepage = "https://github.com/xo-aria/xo-ai"
+Repository = "https://github.com/xo-aria/xo-ai"
+Documentation = "https://github.com/xo-aria/xo-ai/wiki"
+Issues = "https://github.com/xo-aria/xo-ai/issues"
