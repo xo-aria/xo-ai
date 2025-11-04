@@ -1,3 +1,9 @@
+[![Downloads](https://pepy.tech/badge/xo-ai)](https://pepy.tech/project/xo-ai)
+[![PyPI version](https://img.shields.io/pypi/v/xo-ai.svg)](https://pypi.org/project/xo-ai/)
+![Django](https://img.shields.io/badge/Django-3.2%20|%204.2%20|%205.0-green?logo=django)
+[![License](https://img.shields.io/github/license/xo-aria/xo-ai)](https://github.com/xo-aria/xo-ai/blob/main/LICENSE)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+
 ![XO](xo.jpg)
 # XO AI 🤖
 
