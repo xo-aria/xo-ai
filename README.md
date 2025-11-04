@@ -1,3 +1,4 @@
+![XO](xo.jpg)
 # XO AI 🤖
 
 **XO — Minimal Conversational Intelligence Framework with Memory & Reinforcement Learning**
